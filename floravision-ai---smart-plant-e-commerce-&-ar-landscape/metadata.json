@@ -1,0 +1,13 @@
+{
+  "name": "Copy of FloraVision AI - Smart Plant E-Commerce & AR Landscape",
+  "short_name": "FloraVision",
+  "description": "A cutting-edge plant e-commerce platform featuring AI disease detection and real-time AR landscape visualization using Gemini and device cameras.",
+  "display": "standalone",
+  "theme_color": "#059669",
+  "background_color": "#f8fafc",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
